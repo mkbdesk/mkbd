@@ -2,7 +2,7 @@ We zijn een bedrijfsrapport voor ${bedrijfsnaam} aan het stellen dat buiten de i
 
 /
 
-Basisinformatie over het bedrijf:
+Basisinformatie over het bedrijf: 
 
 bedrijf: ${bedrijfsnaam}
 
