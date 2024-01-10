@@ -62,56 +62,60 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 
 ##### 1. {hoofdstuk 1}
 
-<li>
+<ul>
 
-1.1 Onderdeel 1 van dit hoofdstuk
+<li> 1.1 Onderdeel 1 van dit hoofdstuk </li>
 
-1.2 Onderdeel 2 van dit hoofdstuk
+<li> 1.2 Onderdeel 2 van dit hoofdstuk </li>
 
-1.3 Onderdeel 3 van dit hoofdstuk
+<li> 1.3 Onderdeel 3 van dit hoofdstuk </li>
 
-1.4 Onderdeel 4 van dit hoofdstuk
+<li> 1.4 Onderdeel 4 van dit hoofdstuk </li>
 
-</li>
+</ul>
 
 ##### 2. {hoofdstuk 2}
 
-<li>
+<ul>
 
-2.1 Onderdeel 1 van dit hoofdstuk
+<li> 2.1 Onderdeel 1 van dit hoofdstuk </li>
 
-2.2 Onderdeel 2 van dit hoofdstuk
+<li> 2.2 Onderdeel 2 van dit hoofdstuk </li>
 
-2.3 Onderdeel 3 van dit hoofdstuk
+<li> 2.3 Onderdeel 3 van dit hoofdstuk </li>
 
-2.4 Onderdeel 4 van dit hoofdstuk
+<li> 2.4 Onderdeel 4 van dit hoofdstuk </li>
 
-</li>
+</ul>
 
 ##### 3. {hoofdstuk 3}
 
-<li>
+<ul>
 
-3.1 Onderdeel 1 van dit hoofdstuk
+<li> 3.1 Onderdeel 1 van dit hoofdstuk </li>
 
-3.2 Onderdeel 2 van dit hoofdstuk
+<li> 3.2 Onderdeel 2 van dit hoofdstuk </li>
 
-3.3 Onderdeel 3 van dit hoofdstuk
+<li> 3.3 Onderdeel 3 van dit hoofdstuk </li>
 
-3.4 Onderdeel 4 van dit hoofdstuk
+<li> 3.4 Onderdeel 4 van dit hoofdstuk </li>
 
-</li>
+</ul>
 
 ##### 4. {hoofdstuk 4}
 
-<li>
+<ul>
 
-4.1 Onderdeel 1 van dit hoofdstuk
+<li>4.1 Onderdeel 1 van dit hoofdstuk </li>
 
-4.2 Onderdeel 2 van dit hoofdstuk
+<li> 4.2 Onderdeel 2 van dit hoofdstuk </li>
 
-4.3 Onderdeel 3 van dit hoofdstuk
+<li> 4.3 Onderdeel 3 van dit hoofdstuk </li>
 
-4.4 Onderdeel 4 van dit hoofdstuk
+<li> 4.4 Onderdeel 4 van dit hoofdstuk </li>
 
-</li>
+</ul>
+
+etc.
+
+///
