@@ -60,6 +60,8 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 
 ## Inleiding
 
+<div>
+
 ##### 1. {hoofdstuk 1}
 
 <ul>
@@ -73,6 +75,10 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 <li> 1.4 Onderdeel 4 van dit hoofdstuk </li>
 
 </ul>
+
+</div>
+
+<div>
 
 ##### 2. {hoofdstuk 2}
 
@@ -88,6 +94,10 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 
 </ul>
 
+</div>
+
+<div>
+
 ##### 3. {hoofdstuk 3}
 
 <ul>
@@ -102,6 +112,10 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 
 </ul>
 
+</div>
+
+<div>
+
 ##### 4. {hoofdstuk 4}
 
 <ul>
@@ -115,6 +129,8 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 <li> 4.4 Onderdeel 4 van dit hoofdstuk </li>
 
 </ul>
+
+</div>
 
 etc.
 
