@@ -28,29 +28,41 @@ Bij het opstellen van dit hoofdstuk (de Budget & ROI Analyse) neem je de antwoor
 
 /
 
-Vraag 1: Wat is het totale budget dat je momenteel kunt toewijzen aan een AI-transformatieproject en welke doelstellingen zijn hier aan gekoppeld?
+Vraag 1: Hebben jullie een budget dit jaar voor technologie, inclusief AI?
 
 Antwoord 1: ${a3_1}
 
-Vraag 2: Heb je al een idee van de verwachte kosten voor jullie AI-project/transformatie?
+Vraag 2: Wat zijn de verwachte financiële voordelen en ROI van de AI-transformatie?
 
 Antwoord 2 ${a3_2}
 
-Vraag 3: Hoe zou je het succes van jullie AI-implementatie traject meten?
+Vraag 3: Hoe groot is het deel van jullie totale budget dat jullie willen besteden aan AI?
 
 Antwoord 3: ${a3_3}
 
-Vraag 4: Heb je voorbeelden van AI-projecten die je aanspreken en waarmee jullie zelf wel mee zouden willen starten en heb je een idee wat de kosten zijn geweest van dit of deze projecten?
+Vraag 4: Verwacht je dat er specifieke kosten of investeringen nodig om de AI-strategie te realiseren?
 
 Antwoord 4: ${a3_4}
 
-Vraag 5: Wat is jouw verwachting met betrekking tot de terugverdientijd (ROI-tijdlijn) voor een AI-project?
+Vraag 5: Verwacht je dat er specifieke kosten of investeringen nodig om de AI-strategie te realiseren?
 
 Antwoord 5: ${a3_5}
 
-Vraag 6: Zijn er specifieke risico's of zorgen met betrekking tot het budget en de ROI waar rekening mee gehouden moet worden?
+Vraag 6: Zijn er financiële middelen beschikbaar voor AI-training en -ontwikkeling?
 
 Antwoord 6: ${a3_6}
+
+Vraag 7: Welke KPI's wil je gaan gebruiken om AI-prestaties te meten?
+
+Antwoord 7: ${a3_7}
+
+Vraag 8: Hebben jullie een speciaal budget voor het testen van nieuwe ideeën zoals AI?
+
+Antwoord 8: ${a3_8}
+
+Vraag 9: Wanneer verwachten jullie de AI-investering terug te gaan verdienen?
+
+Antwoord 9: ${a3_9}
 
 ///
 
