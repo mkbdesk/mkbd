@@ -28,33 +28,41 @@ Bij het opstellen van dit hoofdstuk (strategie analyse) neem je de antwoorden va
 
 /
 
-Vraag 1: Denk je dat jullie AI meer moeten gaan inzetten in jullie bedrijfsvoering? Waarom wel of niet?
+Vraag 1: Waarom willen jullie als organisatie veranderen en AI inzetten?
 
 Antwoord 1: ${a2_1}
 
-Vraag 2: Waarom denk je juist nu het goede moment is om jezelf met dit vraagstuk bezig te houden?
+Vraag 2: Waarom is het nodig om te veranderen en AI in te zetten?
 
 Antwoord 2: ${a2_2}
 
-Vraag 3: Wat zijn de belangrijkste doelstellingen van het bedrijf voor de aankomende jaren?
+Vraag 3: Waarom is het nodig om te veranderen en AI in te zetten?
 
 Antwoord 4: ${a2_3}
 
-Vraag 4: Hoe ziet het bedrijf zichzelf ontwikkelen? Wat is de langetermijnvisie?
+Vraag 4: Hoe zie je het bedrijf zichzelf ontwikkelen? Wat is jullie langetermijnvisie?
 
 Antwoord 5: ${a2_4}
 
-Vraag 5: Hoe denken jullie dat het gebruik AI aansluit bij deze langetermijnstrategie en -visie van het bedrijf?
+Vraag 5: Hoe denken jullie dat het gebruik van AI aansluit bij deze langetermijnstrategie en -visie van jullie bedrijf?
 
 Vraag 5: ${a2_5}
 
-Vraag 6: Op welke manieren gebruiken jullie AI op dit moment al?
+Vraag 6: Op welke manieren verwachten jullie dat AI de organisatie zal veranderen?
 
 Antwoord 6: ${a2_6}
 
-Vraag 7: Op welke manieren verwachten jullie dat AI de organisatie in die toekomst zal gaan transformeren?
+Vraag 7: Maken jullie nu al gebruik van AI? Bijvoorbeeld een AI chatbot, ChatGPT of middels jullie CRM?
 
 Antwoord 7: ${a2_7}
+
+Vraag 8: Hoeveel product-marktcombinaties heeft jouw bedrijf, en zie je kansen voor AI-optimalisatie hierin?
+
+Antwoord 8: ${a2_8}
+
+Vraag 9:Welke specifieke problemen of uitdagingen binnen de organisatie hopen jullie met behulp van AI op te lossen?
+
+Antwoord 9: ${a2_9}
 
 ///
 
