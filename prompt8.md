@@ -28,27 +28,33 @@ Bij het opstellen van dit hoofdstuk (de Leveranciers & partners Analyse) neem je
 
 /
 
-Vraag 1: Werkt jouw organisatie samen met strategische partners en/of leveranciers? Beschrijf kort wat meer over de samenwerkingen zodat we een goed beeld hierover krijgen.
+Vraag 1: Hoe kunnen leveranciers en partners bijdragen aan uw AI-strategie?
 
 Antwoord 1: ${a8_1}
 
-Vraag 2: Hoe zie je de rol van AI in toekomstige samenwerking met jouw strategische partners en/of leveranciers?
+Vraag 2: Zijn er specifieke eisen aan leveranciers en partners met betrekking tot AI?
 
 Antwoord 2: ${a8_2}
 
-Vraag 3: Welke voorbereidingen tref je om AI te integreren in de relatie met jouw strategische partners en/of leveranciers?
+Vraag 3: Hoe kan samenwerking met leveranciers/partners AI-innovatie stimuleren?
 
 Antwoord 3: ${a8_3}
 
-Vraag 4: Wat zijn jouw verwachtingen van de impact van AI op de efficiëntie en effectiviteit van samenwerkingen met huidige of toekomstige partners en/of leveranciers?
+Vraag 4: Zijn er mogelijkheden voor co-creatie of gezamenlijke AI-projecten?
 
 Antwoord 4: ${a8_4}
 
-Vraag 5: Hoe kijk je aan tegen de risico's verbonden aan het gebruik van AI in jouw supply chain en eventuele partnerschappen?
+Vraag 5: Hoe wordt de kwaliteit en compatibiliteit van AI-oplossingen van partners beoordeeld?
 
-Antwoord 5: ${a8_5}i Welke maatregelen overweeg je om de kwaliteit en compliance van AI-gestuurde processen bij partners en/of leveranciers te gaan waarborgen? Heb je daar al een idee over?
+Antwoord 5: ${a8_5}
+
+Vraag 6: Hoe wordt kennis en ervaring uitgewisseld met leveranciers en partners?
 
 Antwoord 6: ${a8_6}
+
+Vraag 7: Zijn er nieuwe partnerschappen nodig om AI-doelen te bereiken?
+
+Antwoord 7: ${a8_7}
 
 ///
 
