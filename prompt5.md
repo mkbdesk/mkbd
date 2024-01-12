@@ -28,29 +28,49 @@ Bij het opstellen van dit hoofdstuk (de Klanten Analyse) neem je de antwoorden v
 
 /
 
-Vraag 1: Richt jouw MKB-bedrijf zich op het verkopen van producten, diensten, of een combinatie van beide? Licht het zo concreet mogelijk toe.
+Vraag 1: Hoe kan AI de klanttevredenheid verbeteren?
 
 Antwoord 1: ${a5_1}
 
-Vraag 2: Richt jouw bedrijf zich voornamelijk op de B2B of B2C markt? Of bedien je beide markten? Hoe beïnvloedt dit je strategie voor klantenservice en overige AI-toepassingen?
+Vraag 2: Welke klantsegmenten kunnen het meest profiteren van AI?
 
 Antwoord 2: ${a5_2}
 
-Vraag 3: Hoe denk je dat AI nog meer kan of zal gaan bijdragen aan het vergroten van de klantbeleving?
+Vraag 3: Hoe kan AI gepersonaliseerde ervaringen bieden aan klanten?
 
 Antwoord 3: ${a5_3}
 
-Vraag 4: Heb je al in kaart gebracht wat de huidige klanttevredenheid is? Zo ja, hoe?
+Vraag 4: Wat zijn de verwachtingen van klanten met betrekking tot AI?
 
 Antwoord 4: ${a5_4}
 
-Vraag 5: Overweeg je de inzet van AI voor gepersonaliseerde klantinteracties? Welke unieke voor- en nadelen zie je hierin?
+Vraag 5: Hoe kan AI bijdragen aan klantloyaliteit?
 
 Antwoord 5: ${a5_5}
 
-Vraag 6: Hoe zou je de implementatie van AI in de klantenservice communiceren naar je klanten? Hoe verwacht je dat ze hierop zullen reageren?
+Vraag 6: Zijn er specifieke klantuitdagingen die met AI opgelost kunnen worden?
 
 Antwoord 6: ${a5_6}
+
+Vraag 6: Hoe kan AI ingezet worden voor betere klantondersteuning en -service?
+
+Antwoord 6: ${a5_6}
+
+Vraag 6: Welke impact heeft AI op klantcommunicatie en -interactie?
+
+Antwoord 6: ${a5_6}
+
+Vraag 9: Hoe kan AI helpen bij het identificeren van nieuwe klantbehoeften?
+
+Antwoord 6: ${a5_6}
+
+Vraag 10: Hoe wordt klantfeedback gebruikt om AI-oplossingen te verbeteren?
+
+Antwoord 10: ${a5_10}
+
+Vraag 11: Zijn er ethische overwegingen bij het gebruik van AI in klantinteracties?
+
+Antwoord 11: ${a5_11}
 
 ///
 
