@@ -28,30 +28,31 @@ Bij het opstellen van dit hoofdstuk (de Leveranciers & partners Analyse) neem je
 
 /
 
-Vraag 1: Hoe zal jouw bedrijf ethisch AI-gebruik (inclusief privacy, non-discriminatie, transparantie, inzicht in besluitvormingsprocessen etc.) waarborgen? Denk je voor dit proces AI in te kunnen zetten?
+Vraag 1: Hoe wordt de verantwoordelijkheid voor AI beslissingen beheerd binnen de organisatie?
 
 Antwoord 1: ${a9_1}
 
-Vraag 2: Hoe denken jullie regelgeving in relatie tot AI binnen jouw organisatie gestalte te gaan geven?
+Vraag 2: Zijn er processen voor het monitoren en evalueren van AI-systemen?
 
 Antwoord 2: ${a9_2}
-Vraag 3: Aan welke strategieën of methoden denk je over hoe jouw organisatie transparantie kan garanderen in het besluitvormingsproces met behulp van AI-technologieën?
+
+Vraag 3: Hoe wordt transparantie in AI-besluitvorming gewaarborgd?
 
 Antwoord 3: ${a9_3}
 
-Vraag 4: Ben je op de hoogte van de regelgevende uitdagingen in jouw branche die van invloed zijn op het gebruik van AI? Welke betreffen dit?
+Vraag 4: Zijn er richtlijnen voor ethisch gebruik van AI binnen de organisatie?
 
 Antwoord 4: ${a9_4}
 
-Vraag 5: Hoe gaat jouw organisatie om met AI-gerelateerde risico's en uitdagingen, en wat zijn de plannen voor de toekomst met betrekking tot AI?
+Vraag 5: Hoe wordt omgegaan met klachten of problemen gerelateerd aan AI?
 
 Antwoord 5: ${a9_5}
 
-Vraag 6: Heeft jouw organisatie al een plan voor het beheer van AI-gerelateerde risico's, zoals datalekken, onvoorziene gevolgen van AI-beslissingen, en andere uitdagingen die gepaard gaan met het gebruik van nieuwe technologieën zoals AI?
+Vraag 6: Hoe wordt compliance met wet- en regelgeving rond AI gewaarborgd?
 
 Antwoord 6: ${a9_6}
 
-Vraag 7: Hoe bereidt jouw organisatie zich voor op de toekomst met het oog op verantwoordelijk en duurzaam gebruik (blijven) maken van AI-technologieën?
+Vraag 7: Zijn er plannen voor het omgaan met mogelijke risico's van AI?
 
 Antwoord 7: ${a9_6}
 
