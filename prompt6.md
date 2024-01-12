@@ -28,29 +28,37 @@ Bij het opstellen van dit hoofdstuk (de Medewerker Analyse) neem je de antwoorde
 
 /
 
-Vraag 1: Hoe zou je het huidige kennisniveau van medewerkers omtrent AI omschrijven?
+Vraag 1: Wat is de houding van medewerkers ten opzichte van AI en technologische verandering?
 
 Antwoord 1: ${a6_1}
 
-Vraag 2: Zijn er al initiatieven om het kennisniveau en mindset van medewerkers verder te verbeteren middels workshops, trainingen of andere methodes?
+Vraag 2: Welke vaardigheden en kennis zijn er nodig binnen het team voor effectieve AI-implementatie?
 
 Antwoord 2: ${a6_2}
 
-Vraag 3: Staat het personeel open voor de integratie van AI in de organisatie en hun werk?
+Vraag 3: Hoe wordt de huidige workforce voorbereid op AI-gebaseerde veranderingen?
 
 Antwoord 3: ${a6_3}
 
-Vraag 4: Is er weerstand of zijn er zorgen bij de medewerkers over AI?
+Vraag 4: Zijn er weerstanden of zorgen onder medewerkers over AI?
 
 Antwoord 4: ${a6_4}
 
-Vraag 5: Hoe wordt op dit moment de cultuur van innovatie en AI bevorderd?
+Vraag 5: Hoe worden medewerkers betrokken bij AI-initiatieven?
 
 Antwoord 5: ${a6_5}
 
-Vraag 6: Is er reeds een persoon en/of team verantwoordelijk voor AI-transformatie? Licht toe waarom wel of niet.
+Vraag 6: Welke opleidingen of trainingen zijn er nodig om medewerkers AI-ready te maken?
 
 Antwoord 6: ${a6_6}
+
+Vraag 7: Hoe wordt de impact van AI op werkgelegenheid binnen de organisatie gemanaged?
+
+Antwoord 7: ${a6_7}
+
+Vraag 8: Zijn er rollen binnen de organisatie die zullen veranderen door AI?
+
+Antwoord 8: ${a6_8}
 
 ///
 
