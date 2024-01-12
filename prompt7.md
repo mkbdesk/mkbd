@@ -28,32 +28,31 @@ Bij het opstellen van dit hoofdstuk (de Data & ICT Analyse) neem je de antwoorde
 
 /
 
-Vraag 1: Beschikt jouw organisatie over een eigen ICT-afdeling? Indien ja, uit hoeveel personen bestaat deze en hoe zijn de taken verdeeld?
+Vraag 1: Hoe worden data momenteel verzameld en beheerd binnen uw organisatie?
 
 Antwoord 1: ${a7_1}
 
-Vraag 2: Denk je dat jouw organisatie over de nodige kennis, software en ICT-infrastructuur beschikt voor een succesvolle  
-AI-transformatie?
+Vraag 2: Hoe is de data-integriteit en -beveiliging gewaarborgd?
 
 Antwoord 2: ${a7_2}
 
-Vraag 3: Kun je de huidige ICT-oplossingen en cloud-diensten die jouw organisatie gebruikt beschrijven, inclusief hoe deze zijn geïntegreerd of verbonden?
+Vraag 3: Op welke wijze wordt data geanalyseerd en ingezet voor strategische beslissingen?
 
 Antwoord 3: ${a7_3}
 
-Vraag 4: Hoe verzamelt en beheert jouw bedrijf data?
+Vraag 4: Hoe schaalbaar en flexibel is uw huidige ICT-infrastructuur voor AI-integratie?
 
 Antwoord 4: ${a7_4}
 
-Vraag 5: Welke soorten data worden momenteel verzameld die eventueel gebruikt kunnen worden voor toekomstige AI-toepassingen?
+Vraag 5: Welke tools en technologieën worden momenteel gebruikt voor data-analyse en -verwerking?
 
 Antwoord 5: ${a7_5}
 
-Vraag 6: Hoe beoordeel je de huidige digitale volwassenheid van jouw organisatie?
+Vraag 6: Hoe wordt er omgegaan met de opslag en toegankelijkheid van grote datavolumes?
 
 Antwoord 6: ${a7_6}
 
-Vraag 7: Welke hiaten en uitdagingen zie je in jullie huidige ICT-infrastructuur die de toekomstige implementatie van AI kunnen beïnvloeden?
+Vraag 7: Zijn er uitdagingen of beperkingen in uw huidige ICT-omgeving die AI-implementatie kunnen beïnvloeden?
 
 Antwoord 7: ${a7_7}
 
