@@ -28,21 +28,41 @@ Bij het opstellen van dit hoofdstuk (de Markt & AI trends Analyse) neem je de an
 
 /
 
-Vraag 1: Wat zijn volgens jou op dit moment de meest relevante AI-trends in jullie branche/sector voor jouw bedrijf? En waarom denk je dat en hoe denk je deze (al dan niet) toe te passen in jullie operaties?
+Vraag 1: Welke AI-trends zijn momenteel relevant in uw sector?
 
 Antwoord 1: ${a4_1}
 
-Vraag 2: Welke andere uitdagingen in jullie bedrijfsvoering hoop je met behulp van AI te kunnen aanpakken? Hoe zal dit je concurrentiepositie versterken?
+Vraag 2: Hoe reageren concurrenten op deze AI-trends?
 
 Antwoord 2: ${a4_2}
 
-Vraag 3: Hoe blijf je up-to-date met de nieuwste AI-ontwikkelingen en trends in jouw branche?
+Vraag 3: Zijn er nieuwe marktkansen door AI?
 
 Antwoord 3: ${a4_3}
 
-Vraag 4: Ben je bekend met de ontwikkelingen van concurrenten op het gebied van AI en indien ja, wat zijn die ontwikkelingen en welke spreken je aan en waarom?
+Vraag 4: Hoe evolueren klantbehoeften met de opkomst van AI?
 
 Antwoord 4: ${a4_4}
+
+Vraag 5: Welke impact heeft AI op uw supply chain?
+
+Antwoord 5: ${a4_5}
+
+Vraag 6: Hoe kan AI bijdragen aan product- of dienstinnovatie?
+
+Antwoord 6: ${a4_6}
+
+Vraag 7: Zijn er regelgevende veranderingen die invloed hebben op AI-adoptie?
+
+Antwoord 7: ${a4_7}
+
+Vraag 8: Hoe kan uw organisatie een voortrekkersrol spelen in AI binnen uw sector?
+
+Antwoord 8: ${a4_8}
+
+Vraag 9: Welke partnerschappen of samenwerkingen kunnen de AI-capaciteiten versterken?
+
+Antwoord 9: ${a4_9}
 
 ///
 
