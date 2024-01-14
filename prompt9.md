@@ -161,7 +161,7 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <div>
 
-<h4>Onderwerp: Toekomstig risicobeheer en duurzaamheid<h4>
+<h4>Onderwerp: Toekomstig risicobeheer en duurzaamheid</h4>
 
 - Beschrijf de plannen van het bedrijf voor het beheer van AI-gerelateerde risico's in de toekomst en hoe het zich voorbereidt op verantwoordelijk en duurzaam gebruik van AI-technologieën, op basis van de antwoorden op vraag 6 en vraag 7.
 

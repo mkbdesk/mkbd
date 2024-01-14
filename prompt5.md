@@ -129,7 +129,7 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <div>
 
-<h4>Klantsegmentatie voor ${bedrijf}</div>
+<h4>Klantsegmentatie voor ${bedrijf}</h4>
 
 - Wat is er goed in hun antwoorden en wat lijken ze over het hoofd te zien.
 
@@ -147,7 +147,7 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <div>
 
-<h4>Strategieën voor AI-gedreven klantenservice<h4>
+<h4>Strategieën voor AI-gedreven klantenservice</h4>
 
 - Marktontwikkelingen en technologische vooruitgang in hun sector.
 
