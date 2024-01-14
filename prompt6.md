@@ -77,7 +77,7 @@ Gebruik formele taal. Spreek de bezoeker altijd aan met "U" of "Uw". Niet met "j
 Gebruik NOOIT camelcase hoofdletters in titels. Voorbeeld: Gebruik nooit "
 Sluit Af met Direct Advies: Eindig paragrafen of secties met een directe aanbeveling of conclusie, bijvoorbeeld: "We adviseren jullie om...".
 /  
-Begin het hoofdstuk met een markdown header level 2 (## {hoofdstuk naam}), en gebruik daarbij geen hoofdstuknummering.
+Begin het hoofdstuk met een html heading level 2 (<h2>), en gebruik daarbij geen hoofdstuknummering.
 /  
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in divs.
 
@@ -109,25 +109,45 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 ///
 
-#### Beoordeling huidige situatie
+<div>
+
+<h4>Beoordeling huidige situatie</h4>
 
 - Beoordeel de huidige situatie en beschrijf in hoeverre de huidige situatie een gedecideerd AI team toelaat.
+
 - Gebruik antwoorden op vraag 6 en benadruk het voordeel van een multidisciplinair team ten opzichte van dan een individuele manager die het transformatie traject leidt geef aan dat er enige urgentie is en het tijdsbestek voor het samenstellen van een multidisciplinair team de implementatie van AI-transformatie begeleid. schrijf het adviserend maar niet dwingend. Maak duidelijk waarom een teamaanpak strategisch voordelig is.
+
 - Is er al een AI-team samengesteld of niet?: Baseer dit op de antwoorden op vraag 6 . Onderstreep de het belang van het samenstellen van een divers en competent team en wat de voordelen daarvan zijn.
+
 - Vaardigheden en Expertise: Reflecteer op vraag 6, met nadruk op hoe een team benadering een bredere reeks vaardigheden en ervaringen kan bieden dan een individuele manager.
 
-#### AI team en mindset
+</div>
+
+<div>
+
+<h4>AI team en mindset</h4>
 
 - Kennisniveau en Houding van Medewerkers ten Aanzien van AI: Gebruik van de antwoorden van vraag 1, 2 en 3 om een analyse op te stellen over het huidige kennisniveau van medewerkers over AI en een overzicht van de algemene houding van het personeel ten aanzien van AI-integratie.
+
 - Weerstand tegen en Zorgen over AI: Gebruik de antwoorden van vraag 5, 4 en 3 om eventuele zorgen en weerstanden bij medewerkers van ${bedrijf} over AI te identificeren en bedenk Strategieën om deze weerstand te overwinnen en de zorgen van de medewerkers van ${bedrijf} aan te pakken.
+
 - Ontwikkeling van een Innovatie- en AI-Cultuur: Gebruik de antwoorden van vraag 1, 3, 4 en 5 om advies te geven om de cultuur van innovatie en AI te bevorderen bij vermeld hierbij ook dat uit onderzoek is gebleken dat het ontbreken van de juiste mindset van de medewerkers de belangrijkste reden is voor het niet slagen van een AI transformatie dus dat hier echt op gestuurd moet worden in het belang van ${bedrijf} daarnaast welke strategieën ingezet kunnen worden om deze mindset cultuur binnen ${bedrijf} verder te blijven ontwikkelen en te versterken.
+
 - Opleidingsstrategie voor medewerkers en het AI-Team: leg duidelijk uit waarom er de noodzaak is van het opleiden van zowel het transformatieteam als de medewerkers zodat de innovatie en transformatie van ${bedrijf} succesvol verloopt en geef aanbevelingen voor een effectief opleidingsprogramma voor zowel het AI-Team als voor de medewerkers
 
-#### Conclusie en actieplan met concrete stappen
+</div>
+
+<div>
+
+<h4>Conclusie en actieplan met concrete stappen</h4>
 
 - Conclusie en strategische aanbevelingen t.a.v transformatie team: Geef een conclusie en aanbevelingen, waarbij de nadruk ligt op de strategische voordelen van een teamaanpak en de noodzakelijke stappen die ondernomen moeten worden. Daarnaast moet duidelijk worden gemaakt dat deze mensen de tijd tot hun beschikking krijgen voor hun rol in het AI team. Daarnaast moeten ze een mandaat krijgen vanuit het management of directie.
+
 - Conclusies en strategische Aanbevelingen kennis en mindset medewerkers: geef een duidelijke tot the point samenvatting van de belangrijkste bevindingen op basis van de antwoorden op de gestelde vragen en geef strategische aanbevelingen voor een succesvolle AI-transformatie (hierbij rekening houdend dat het ontbreken van de juiste mindset cruciaal is voor het slagen van de transformatie)
+
 - Actieplan en volgende stappen: Maak op basis van al de informatie een gedetailleerd actieplan voor de implementatie van de aanbevelingen en suggesties voor de volgende stappen en toekomstige evaluaties. Zet daaronder in een overzicht met de subkopjes Acties en stappen.
+
+</div>
 
 ///
 
@@ -141,8 +161,8 @@ Zorg ervoor dat je bij alle 3 onderdelen van dit hoofdstuk analyseert waar het b
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 ///
 
@@ -151,25 +171,25 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>					
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 

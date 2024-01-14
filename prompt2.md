@@ -83,7 +83,7 @@ Gebruik formele taal. Spreek de bezoeker altijd aan met "U" of "Uw". Niet met "j
 Gebruik NOOIT camelcase hoofdletters in titels. Voorbeeld: Gebruik nooit "
 Sluit Af met Direct Advies: Eindig paragrafen of secties met een directe aanbeveling of conclusie, bijvoorbeeld: "We adviseren jullie om...".
 /  
-Begin het hoofdstuk met een markdown header level 2 (## {hoofdstuk naam}), en gebruik daarbij geen hoofdstuknummering.
+Begin het hoofdstuk met een html heading level 2 (<h2>), en gebruik daarbij geen hoofdstuknummering.
 /  
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in divs.
 
@@ -117,25 +117,41 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 ///
 
-#### De noodzaak voor verandering
+<div>
+
+<h4>De noodzaak voor verandering </h4>
 
 - De antwoorden van ${bedrijf} op vragen 1 en 2 en 3.
+
 - Wat is er goed in hun antwoorden en wat lijken ze over het hoofd te zien.
+
 - Wat zijn de interne en externe drijfveren
+
 - Marktontwikkelingen en technologische vooruitgang in hun sector.
+
 - Strategische timing en concurrentievoordeel
 
-#### Bedrijfsdoelstellingen en visie
+</div>
+
+<div>
+
+<h4>Bedrijfsdoelstellingen en visie</h4>
 
 - De antwoorden van ${bedrijf} op vragen 4, 5 en 6
 
 - Wat zijn de kernambities
+
 - Toekomstperspectief m.b.t. AI (antwoord op vraag 6)
+
 - Wat schiet er tekort in de korte termijn visie van ${bedrijf}
 
 - Wat schiet er tekort in de langetermijnvisie van ${bedrijf}
 
-#### AI en de bedrijfsstrategie
+</div>
+
+<div>
+
+<h4>#### AI en de bedrijfsstrategie</h4>
 
 - De antwoorden van [bedrijf] op vragen 7 en 8
 
@@ -145,11 +161,17 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Ligt de visie van het bedrijf goed?
 
-#### Conclusie en aanbevelingen
+</div>
+
+<div>
+
+<h4>Conclusie en aanbevelingen</h4>
 
 - Geef een samenvatting van de belangrijkste bevindingen
 
 - Geef een strategische aanbeveling van de AI transformatie in verschillende tijdspannes
+
+</div>
 
 ///
 
@@ -159,8 +181,8 @@ Zorg ervoor dat je bij alle 4 onderdelen van dit hoofdstuk analyseert waar het b
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 ///
 
@@ -169,25 +191,25 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>					
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 

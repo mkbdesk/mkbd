@@ -73,7 +73,7 @@ Gebruik formele taal. Spreek de bezoeker altijd aan met "U" of "Uw". Niet met "j
 Gebruik NOOIT camelcase hoofdletters in titels. Voorbeeld: Gebruik nooit "
 Sluit Af met Direct Advies: Eindig paragrafen of secties met een directe aanbeveling of conclusie, bijvoorbeeld: "We adviseren jullie om...".
 /  
-Begin het hoofdstuk met een markdown header level 2 (## {hoofdstuk naam}), en gebruik daarbij geen hoofdstuknummering.
+Begin het hoofdstuk met een html heading level 2 (<h2>), en gebruik daarbij geen hoofdstuknummering.
 /  
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in divs.
 
@@ -109,7 +109,9 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 ///
 
-#### Huidige Samenwerking met Partners en Leveranciers
+<div>
+
+<h4>Huidige Samenwerking met Partners en Leveranciers</h4>
 
 - Gebruik het antwoord op vraag 1 Beschrijf kort wat meer over de samenwerkingen zodat we een goed beeld hierover krijgen om inzicht te krijgen in de bestaande samenwerkingsverbanden.
 
@@ -117,7 +119,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Instructie: Als ze ontkennend hebben gereageerd op vraag 1 dan kun je dit hoofdstuk afsluiten. Zet dan in het rapport dat [bedrijfsnaam niet strategisch samenwerkt met leveranciers of partners.
 
-#### Rol van AI in toekomstige Samenwerking:
+</div>
+
+<div>
+
+<h4>Rol van AI in toekomstige Samenwerking:</h4>
 
 - Wat zien ze mogelijk over het hoofd?
 
@@ -127,7 +133,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Trek conclusies en geef aanbevelingen
 
-#### Voorbereiding op AI-Integratie:
+</div>
+
+<div>
+
+<h4>Voorbereiding op AI-Integratie:</h4>
 
 - Haal informatie uit het antwoord op vraag 5 om te begrijpen welke stappen worden ondernomen voor AI-integratie en beoordeel of stappen ontbreken. Geef dit dan duidelijk aan als advies.
 
@@ -137,16 +147,25 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Trek conclusies en geef aanbevelingen
 
-#### Verwachtingen en doelen voor AI-implementatie:
+</div>
+
+<div>
+
+<h4>Verwachtingen en doelen voor AI-implementatie:</h4>
 
 - Baseer je op de antwoorden op vraag 7 om de verwachtingen en doelstellingen met betrekking tot AI-implementatie te identificeren.
+
 - Mochten ze belangrijke zaken over het hoofd hebben gezien beschrijf deze dan
 
 - Leg de nadruk op de beoogde impact en voordelen van AI-gebruik in samenwerkingen met leveranciers en partners
 
 - Trek conclusies en geef aanbevelingen
 
-#### Risicobeheer en kwaliteitscontrole:
+</div>
+
+<div>
+
+<h4>Risicobeheer en kwaliteitscontrole:</h4>
 
 - Analyseer de antwoorden op Vraag 9 en Vraag om inzicht te krijgen in risico's en beheersmaatregelen.
 
@@ -156,6 +175,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Trek conclusies en geef aanbevelingen
 
+</div>
+
 ///
 
 Zorg ervoor dat je bij alle 5 onderdelen van dit hoofdstuk analyseert waar het bedrijf staat in het AI landschap, maar geef ook vooral concreet advies over punten waar ze achter lijken te lopen.
@@ -164,8 +185,8 @@ Zorg ervoor dat je bij alle 5 onderdelen van dit hoofdstuk analyseert waar het b
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 ///
 
@@ -174,25 +195,25 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>					
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 

@@ -73,7 +73,7 @@ Gebruik formele taal. Spreek de bezoeker altijd aan met "U" of "Uw". Niet met "j
 Gebruik NOOIT camelcase hoofdletters in titels. Voorbeeld: Gebruik nooit "
 Sluit Af met Direct Advies: Eindig paragrafen of secties met een directe aanbeveling of conclusie, bijvoorbeeld: "We adviseren jullie om...".
 /  
-Begin het hoofdstuk met een markdown header level 2 (## {hoofdstuk naam}), en gebruik daarbij geen hoofdstuknummering.
+Begin het hoofdstuk met een html heading level 2 (<h2>), en gebruik daarbij geen hoofdstuknummering.
 /  
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in divs.
 
@@ -109,7 +109,9 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 ///
 
-#### Ethisch gebruik van AI
+<div>
+
+<h4>Ethisch gebruik van AI</h4>
 
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
@@ -117,7 +119,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
 
-#### Juridische aspecten en compliance
+</div>
+
+<div>
+
+<h4>Juridische aspecten en compliance</h4>
 
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
@@ -125,7 +131,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
 
-#### Transparantie in besluitvorming met AI
+</div>
+
+<div>
+
+<h4>Transparantie in besluitvorming met AI</h4>
 
 - Beschrijf de strategieën of methoden die het bedrijf zal gebruiken om duidelijkheid en inzicht te verschaffen in hoe beslissingen worden genomen met behulp van AI, gebaseerd op het antwoord op vraag 3.
 
@@ -133,7 +143,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
 
-#### Wettelijke uitdagingen en risicobeheer
+</div>
+
+<div>
+
+<h4>Wettelijke uitdagingen en risicobeheer</h4>
 
 - Behandel specifieke wettelijke uitdagingen in de branche en hoe het bedrijf risicobeheer toepast met betrekking tot nieuwe technologieën zoals AI, gebaseerd op de antwoorden op vraag 4 en vraag 5.
 
@@ -143,13 +157,19 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Geef ook aan dat de Europese wetgeving om dit moment nog steeds in ontwikkeling is.
 
-#### Onderwerp: Toekomstig risicobeheer en duurzaamheid
+</div>
+
+<div>
+
+<h4>Onderwerp: Toekomstig risicobeheer en duurzaamheid<h4>
 
 - Beschrijf de plannen van het bedrijf voor het beheer van AI-gerelateerde risico's in de toekomst en hoe het zich voorbereidt op verantwoordelijk en duurzaam gebruik van AI-technologieën, op basis van de antwoorden op vraag 6 en vraag 7.
 
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
+
+</div>
 
 ///
 
@@ -159,8 +179,8 @@ Zorg er voor dat je bij alle 5 onderdelen van dit hoofdstuk analyseert waar het 
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 ///
 
@@ -169,25 +189,25 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>					
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 

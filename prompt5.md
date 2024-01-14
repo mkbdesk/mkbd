@@ -89,7 +89,7 @@ Gebruik formele taal. Spreek de bezoeker altijd aan met "U" of "Uw". Niet met "j
 Gebruik NOOIT camelcase hoofdletters in titels. Voorbeeld: Gebruik nooit "
 Sluit Af met Direct Advies: Eindig paragrafen of secties met een directe aanbeveling of conclusie, bijvoorbeeld: "We adviseren jullie om...".
 /  
-Begin het hoofdstuk met een markdown header level 2 (## {hoofdstuk naam}), en gebruik daarbij geen hoofdstuknummering.
+Begin het hoofdstuk met een html heading level 2 (<h2>), en gebruik daarbij geen hoofdstuknummering.
 /  
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in divs.
 
@@ -127,7 +127,9 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 ///
 
-#### Klantsegmentatie voor ${bedrijf}
+<div>
+
+<h4>Klantsegmentatie voor ${bedrijf}</div>
 
 - Wat is er goed in hun antwoorden en wat lijken ze over het hoofd te zien.
 
@@ -141,7 +143,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Als ze geen idee hebben hoe AI de klantbeleving kan verrijken geef dan voorbeelden uit hun branche en of sector
 
-#### Strategieën voor AI-gedreven klantenservice
+</div>
+
+<div>
+
+<h4>Strategieën voor AI-gedreven klantenservice<h4>
 
 - Marktontwikkelingen en technologische vooruitgang in hun sector.
 
@@ -155,17 +161,27 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Beoordeel het antwoord op vraag 5 en geef aanvullende tips en adviezen hoe ze de communicatie richting klanten anders of beter kunnen doen
 
-#### Ethische overwegingen en klantbetrokkenheid
+</div>
+
+<div>
+
+<h4>Ethische overwegingen en klantbetrokkenheid</h4>
 
 - Het is cruciaal om de privacy van klanten te waarborgen, transparantie in AI-algoritmen te garanderen en te streven naar onbevooroordeelde AI-beslissingen om discriminatie te vermijden en gelijke behandeling te waarborgen.
 
 - Houd klanten op de hoogte van AI-gebruik, stimuleer feedback voor verbetering, bied ondersteuning en bouw vertrouwen op door consistente, kwalitatieve AI-interacties, en houd menselijke interventie in gedachten voor complexe situaties.
 
-#### Conclusie en aanbevelingen
+</div>
+
+<div>
+
+<h4>Conclusie en aanbevelingen</h4>
 
 - Trek conclusies en geef strategische aanbevelingen voor klanten & AI van de belangrijkste bevindingen in verschillende tijdsspanne
 
 - Geef puntsgewijs de aanbevelingen aan maar ook de noodzaak van Ai klantenservice zoals reductie kosten, kwaliteit en snelheid van antwoord geven, 24/7 bereikbaar
+
+</div>
 
 ///
 
@@ -175,8 +191,8 @@ Zorg ervoor dat je bij alle 6 onderdelen van dit hoofdstuk analyseert waar het b
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 ///
 
@@ -185,25 +201,25 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>					
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 

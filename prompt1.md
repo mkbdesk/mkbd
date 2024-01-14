@@ -48,7 +48,7 @@ Houd ten alle tijde de volgende structuur aan:
 
 ///
 
-## Inleiding
+<h2> Inleiding </h2>
 
 Body (bestaande uit 2 simpele paragraven)
 
@@ -58,8 +58,8 @@ Zorg ervoor dat je NOOIT hoofdstukken verzint en/of opsomt in de inleiding, de i
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.
 
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 //////

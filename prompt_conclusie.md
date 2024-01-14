@@ -70,7 +70,7 @@ Houd ten alle tijde de volgende structuur aan:
 
 ///
 
-## Conclusie
+<h2>Conclusie </h2>
 
 Body (bestaande uit 4 simpele paragraven)
 
@@ -80,8 +80,8 @@ Zorg ervoor dat je NOOIT hoofdstukken verzint en/of opsomt in de conclusie, de i
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.
+Gebruik overal HTML formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.
 
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in HTML formatting. Zorg ook dat alle bullet lists en opsommingen in HTML formatting zijn.
 
 //////

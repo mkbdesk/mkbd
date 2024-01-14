@@ -8,7 +8,7 @@ Voorbeeld: Als er 8 hoofdstukken worden meegegeven, nummer je de hoofdstukken va
 
 /// BELANGRIJK ///
 
-Gebruik NOOIT een inleiding of andere lopende tekst, genereer enkel de inhoudsopgave
+Benoem NOOIT een inleiding of andere lopende tekst, genereer enkel de inhoudsopgave.
 
 Gebruik overal markdown formatting.
 
@@ -135,3 +135,5 @@ Houd ten alle tijde de volgende hierarchische structuur aan:
 etc.
 
 ///
+
+Benoem NOOIT een inleiding of andere lopende tekst, genereer enkel de inhoudsopgave.

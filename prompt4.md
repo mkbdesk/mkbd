@@ -81,7 +81,7 @@ Gebruik formele taal. Spreek de bezoeker altijd aan met "U" of "Uw". Niet met "j
 Gebruik NOOIT camelcase hoofdletters in titels. Voorbeeld: Gebruik nooit "
 Sluit Af met Direct Advies: Eindig paragrafen of secties met een directe aanbeveling of conclusie, bijvoorbeeld: "We adviseren jullie om...".
 /  
-Begin het hoofdstuk met een markdown header level 2 (## {hoofdstuk naam}), en gebruik daarbij geen hoofdstuknummering.
+Begin het hoofdstuk met een html heading level 2 (<h2>), en gebruik daarbij geen hoofdstuknummering.
 /  
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in divs.
 
@@ -115,7 +115,9 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 ///
 
-#### Opkomende AI-trends en hun impact op de branche
+<div>
+
+<h4>Opkomende AI-trends en hun impact op de branche</h4>
 
 - Het antwoord op vraag 1
 
@@ -127,7 +129,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien geen duidelijk antwoord beschrijf nieuwste AI ontwikkelingen in hun branche en geef de impact ervan aan
 
-#### Strategieën voor het benutten van AI-trends
+</div>
+
+<div>
+
+<h4>Strategieën voor het benutten van AI-trends</h4>
 
 - Het antwoord op vraag 2
 
@@ -135,7 +141,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien geen duidelijk antwoord geef de voordelen aan en noem voorbeelden hoe dit toe te kunnen passen
 
-#### De rol van AI in marktanalyse
+</div>
+
+<div>
+
+<h4>De rol van AI in marktanalyse</h4>
 
 - Het antwoord op vraag 3
 
@@ -145,7 +155,11 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien geen of duidelijk antwoord geef de voordelen aan van marktanalyse en hoe daar voordeel uit kunnen halen door te kijken wat concurrenten niet of niet goed doen en dat juist beter doen
 
-#### De ontwikkelingen bij de concurrenten
+</div>
+
+<div>
+
+<h4>De ontwikkelingen bij de concurrenten</h4>
 
 - Het antwoord op vraag 4
 
@@ -155,12 +169,12 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien er geen duidelijk antwoord komt, geef aan dat het goed is om te onderzoeken wat concurrenten doen op het gebied van Ai.
 
-///
+</div>
 
 /// BELANGRIJK ///
 
-Gebruik overal markdown formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
-Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in markdown formatting. Zorg ook dat alle bullet lists en opsommingen in markdown formatting zijn.
+Gebruik overal html formatting. Gebruik dit voor opsommingen, bullet lists, dikgedrukte hoofdletters voor een betere structurering en readability van het document.  
+Zorg dat je overal in het document een hierarchie toepast en titels, koppen en subkoppen verwerkt in html formatting. Zorg ook dat alle bullet lists en opsommingen in html formatting zijn.
 
 ///
 
@@ -169,29 +183,30 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>					
 <div>
-#### titel
+<h2>titel</h2>
 
 inhoud van de alinea
 
 </div>
 
 enz.
+
 ///
