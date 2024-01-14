@@ -113,11 +113,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Ethisch gebruik van AI</h4>
 
+<p>
+
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
 - Beschrijf hoe het bedrijf ethisch gebruik van AI, inclusief privacy, non-discriminatie, en transparantie, zal managen, gebaseerd op het antwoord op vraag 1.
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
+
+</p>
 
 </div>
 
@@ -125,11 +129,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Juridische aspecten en compliance</h4>
 
+<p>
+
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
 - Ga in op hoe het bedrijf ethiek en wettelijke compliance in relatie tot AI binnen de organisatie gestalte zal geven, op basis van vraag 2.
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
+
+</p>
 
 </div>
 
@@ -137,17 +145,23 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Transparantie in besluitvorming met AI</h4>
 
+<p>
+
 - Beschrijf de strategieën of methoden die het bedrijf zal gebruiken om duidelijkheid en inzicht te verschaffen in hoe beslissingen worden genomen met behulp van AI, gebaseerd op het antwoord op vraag 3.
 
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Wettelijke uitdagingen en risicobeheer</h4>
+
+<p>
 
 - Behandel specifieke wettelijke uitdagingen in de branche en hoe het bedrijf risicobeheer toepast met betrekking tot nieuwe technologieën zoals AI, gebaseerd op de antwoorden op vraag 4 en vraag 5.
 
@@ -157,17 +171,23 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Geef ook aan dat de Europese wetgeving om dit moment nog steeds in ontwikkeling is.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Onderwerp: Toekomstig risicobeheer en duurzaamheid</h4>
 
+<p>
+
 - Beschrijf de plannen van het bedrijf voor het beheer van AI-gerelateerde risico's in de toekomst en hoe het zich voorbereidt op verantwoordelijk en duurzaam gebruik van AI-technologieën, op basis van de antwoorden op vraag 6 en vraag 7.
 
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
 
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
+
+</p>
 
 </div>
 
@@ -189,27 +209,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 

@@ -131,6 +131,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Klantsegmentatie voor ${bedrijf}</h4>
 
+<p>
+
 - Wat is er goed in hun antwoorden en wat lijken ze over het hoofd te zien.
 
 - Bepaal of het type klant invloed heeft op de manier waarop ze AI willen inzetten.
@@ -143,11 +145,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Als ze geen idee hebben hoe AI de klantbeleving kan verrijken geef dan voorbeelden uit hun branche en of sector
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Strategieën voor AI-gedreven klantenservice</h4>
+
+<p>
 
 - Marktontwikkelingen en technologische vooruitgang in hun sector.
 
@@ -161,15 +167,21 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Beoordeel het antwoord op vraag 5 en geef aanvullende tips en adviezen hoe ze de communicatie richting klanten anders of beter kunnen doen
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Ethische overwegingen en klantbetrokkenheid</h4>
 
+<p>
+
 - Het is cruciaal om de privacy van klanten te waarborgen, transparantie in AI-algoritmen te garanderen en te streven naar onbevooroordeelde AI-beslissingen om discriminatie te vermijden en gelijke behandeling te waarborgen.
 
 - Houd klanten op de hoogte van AI-gebruik, stimuleer feedback voor verbetering, bied ondersteuning en bouw vertrouwen op door consistente, kwalitatieve AI-interacties, en houd menselijke interventie in gedachten voor complexe situaties.
+
+</p>
 
 </div>
 
@@ -177,9 +189,13 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Conclusie en aanbevelingen</h4>
 
+<p>
+
 - Trek conclusies en geef strategische aanbevelingen voor klanten & AI van de belangrijkste bevindingen in verschillende tijdsspanne
 
 - Geef puntsgewijs de aanbevelingen aan maar ook de noodzaak van Ai klantenservice zoals reductie kosten, kwaliteit en snelheid van antwoord geven, 24/7 bereikbaar
+
+</p>
 
 </div>
 
@@ -201,27 +217,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 

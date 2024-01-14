@@ -113,6 +113,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>ICT-Structuur en beheer</h4>
 
+<p>
+
 - Of de organisatie over een eigen ICT-afdeling beschikt en in hoeverre besteden ze ICT-beheer uit aan externe partners? Antwoord op vraag 1
 
 - Bepaal wat goed is aan hun antwoorden en wat ze over het hoofd zien
@@ -123,11 +125,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Mocht uit het antwoord blijken dat de persoon het niet echt weet, beschrijf dan waarom het belangrijk is dat dit in beeld wordt gebracht en waarom..
 
+</p>
+
 </div>
 
 <div>
 
 <h4>ICT-Infrastructuur voor AI</h4>
+
+<p>
 
 - Beschrijf of de organisatie over de nodige hardware, software en ICT-infrastructuur voor een succesvolle AI-transformatie en waarom dit belangrijk is. Is antwoord op vraag 2.
 
@@ -137,11 +143,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Mocht uit het antwoord blijken dat de persoon het niet echt weet, beschrijf dan waarom het belangrijk is dat dit in beeld wordt gebracht en waarom.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Gebruik van ICT-Oplossingen en integratie</h4>
+
+<p>
 
 - Beschrijf hier de huidige ICT-oplossingen en cloud-diensten die de organisatie gebruikt inclusief hoe deze zijn geïntegreerd of verbonden? (Vraag 3)
 
@@ -151,11 +161,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Mocht uit het antwoord blijken dat de persoon het niet echt weet, beschrijf dan waarom het belangrijk is dat dit in beeld wordt gebracht en waarom.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Datacollectie en beheer voor AI</h4>
+
+<p>
 
 - Beschrijf hoe het bedrijf data verzamelt en beheert jouw en welke soorten data worden momenteel verzameld ivm toekomstige AI-toepassingen. Gebruik hier he antwoord op vraag 4 voor.
 
@@ -166,11 +180,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Mocht uit het antwoord blijken dat de persoon het niet echt weet, beschrijf dan waarom het belangrijk is dat dit in beeld wordt gebracht en waarom.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Digitale volwassenheid en ICT-uitdagingen</h4>
+
+<p>
 
 - Beschrijf en beoordeel op basis van het antwoord op vraag 5 de huidige digitale volwassenheid van het bedrijf.
 
@@ -181,6 +199,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 - Adviseer en ligt toe waar nodig mocht blijken dat ze belangrijke kernpunten missen
 
 - Mocht uit het antwoord blijken dat de persoon het niet echt weet, beschrijf dan waarom het belangrijk is dat dit in beeld wordt gebracht en waarom
+
+</p>
 
 </div>
 
@@ -202,27 +222,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 

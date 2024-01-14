@@ -121,6 +121,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Beoordeling huidig budget en doelstellingen</h4>
 
+<p>
+
 - De antwoorden op vraag 1
 
 - Vermeld het totale budget dat beschikbaar is voor de AI-transformatie
@@ -133,11 +135,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Adviseer indien geen specifieke doelstellingen worden aangegeven voor de AI-implementatie dat het cruciaal is om duidelijke en meetbare doelstellingen vast te stellen om de richting en het succes van het project te bepalen. Het ontbreken van duidelijke doelen kan leiden tot inefficiëntie en onzekerheid in het budgetproces.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Kosten en rendement prognose</h4>
+
+<p>
 
 - De antwoorden op vraag op vraag 2 en 3.
 
@@ -167,11 +173,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Geef aan dat het belangrijk is om de ROI meting continu aan te blijven passen en te optimaliseren. Wijs erop dat het monitoren van de ROI niet alleen belangrijk is om het succes te meten, maar ook om eventuele aanpassingen en optimalisaties in het project aan te brengen als de resultaten niet aan de verwachtingen voldoen.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Vergelijkbare projecten en ROI-tijdlijn </h4>
+
+<p>
 
 - De antwoorden op vraag 4 en 5
 
@@ -191,11 +201,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Benadruk het belang van een realistische tijdlijn voor effectief projectbeheer en succes bij een AI-implementatie.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Risico's en aanbevelingen</h4>
+
+<p>
 
 - Antwoord op vraag 6
 
@@ -203,6 +217,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Specificeer risico's met betrekking tot het budget en de ROI
   Formuleer concrete aanbevelingen en adviezen om de geïdentificeerde risico's aan te pakken en om het budget en de ROI te optimaliseren.
+
+</p>
 
 </div>
 
@@ -224,27 +240,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 

@@ -121,6 +121,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>De noodzaak voor verandering </h4>
 
+<p>
+
 - De antwoorden van ${bedrijf} op vragen 1 en 2 en 3.
 
 - Wat is er goed in hun antwoorden en wat lijken ze over het hoofd te zien.
@@ -131,11 +133,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Strategische timing en concurrentievoordeel
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Bedrijfsdoelstellingen en visie</h4>
+
+<p>
 
 - De antwoorden van ${bedrijf} op vragen 4, 5 en 6
 
@@ -147,11 +153,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Wat schiet er tekort in de langetermijnvisie van ${bedrijf}
 
+</p>
+
 </div>
 
 <div>
 
 <h4>#### AI en de bedrijfsstrategie</h4>
+
+<p>
 
 - De antwoorden van [bedrijf] op vragen 7 en 8
 
@@ -161,15 +171,21 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Ligt de visie van het bedrijf goed?
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Conclusie en aanbevelingen</h4>
 
+<p>
+
 - Geef een samenvatting van de belangrijkste bevindingen
 
 - Geef een strategische aanbeveling van de AI transformatie in verschillende tijdspannes
+
+</p>
 
 </div>
 
@@ -191,27 +207,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 

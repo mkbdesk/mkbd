@@ -119,6 +119,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Opkomende AI-trends en hun impact op de branche</h4>
 
+<p>
+
 - Het antwoord op vraag 1
 
 - Wat is er goed in hun antwoorden en wat lijken ze over het hoofd te zien?
@@ -129,11 +131,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien geen duidelijk antwoord beschrijf nieuwste AI ontwikkelingen in hun branche en geef de impact ervan aan
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Strategieën voor het benutten van AI-trends</h4>
+
+<p>
 
 - Het antwoord op vraag 2
 
@@ -141,11 +147,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien geen duidelijk antwoord geef de voordelen aan en noem voorbeelden hoe dit toe te kunnen passen
 
+</p>
+
 </div>
 
 <div>
 
 <h4>De rol van AI in marktanalyse</h4>
+
+<p>
 
 - Het antwoord op vraag 3
 
@@ -155,11 +165,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Indien geen of duidelijk antwoord geef de voordelen aan van marktanalyse en hoe daar voordeel uit kunnen halen door te kijken wat concurrenten niet of niet goed doen en dat juist beter doen
 
+</p>
+
 </div>
 
 <div>
 
 <h4>De ontwikkelingen bij de concurrenten</h4>
+
+<p>
 
 - Het antwoord op vraag 4
 
@@ -168,6 +182,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 - Als er voorbeeld is genoemd zou dit mogelijkerwijs een eerste AI traject voor ${bedrijf} zijn. Leg uit hoe de genoemde oplossing toegepast kan worden binnen ${bedrijf} en hoe het werkt en wat de voordelen. Geef ook indicatie over mogelijke directe en indirecte kosten
 
 - Indien er geen duidelijk antwoord komt, geef aan dat het goed is om te onderzoeken wat concurrenten doen op het gebied van Ai.
+
+</p>
 
 </div>
 
@@ -183,27 +199,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 

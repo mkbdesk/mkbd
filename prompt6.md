@@ -113,6 +113,8 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 <h4>Beoordeling huidige situatie</h4>
 
+<p>
+
 - Beoordeel de huidige situatie en beschrijf in hoeverre de huidige situatie een gedecideerd AI team toelaat.
 
 - Gebruik antwoorden op vraag 6 en benadruk het voordeel van een multidisciplinair team ten opzichte van dan een individuele manager die het transformatie traject leidt geef aan dat er enige urgentie is en het tijdsbestek voor het samenstellen van een multidisciplinair team de implementatie van AI-transformatie begeleid. schrijf het adviserend maar niet dwingend. Maak duidelijk waarom een teamaanpak strategisch voordelig is.
@@ -121,11 +123,15 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Vaardigheden en Expertise: Reflecteer op vraag 6, met nadruk op hoe een team benadering een bredere reeks vaardigheden en ervaringen kan bieden dan een individuele manager.
 
+</p>
+
 </div>
 
 <div>
 
 <h4>AI team en mindset</h4>
+
+<p>
 
 - Kennisniveau en Houding van Medewerkers ten Aanzien van AI: Gebruik van de antwoorden van vraag 1, 2 en 3 om een analyse op te stellen over het huidige kennisniveau van medewerkers over AI en een overzicht van de algemene houding van het personeel ten aanzien van AI-integratie.
 
@@ -135,17 +141,23 @@ Begin elk onderdeel met een heading level 4, gevolgd met de inhoud van dat onder
 
 - Opleidingsstrategie voor medewerkers en het AI-Team: leg duidelijk uit waarom er de noodzaak is van het opleiden van zowel het transformatieteam als de medewerkers zodat de innovatie en transformatie van ${bedrijf} succesvol verloopt en geef aanbevelingen voor een effectief opleidingsprogramma voor zowel het AI-Team als voor de medewerkers
 
+</p>
+
 </div>
 
 <div>
 
 <h4>Conclusie en actieplan met concrete stappen</h4>
 
+<p>
+
 - Conclusie en strategische aanbevelingen t.a.v transformatie team: Geef een conclusie en aanbevelingen, waarbij de nadruk ligt op de strategische voordelen van een teamaanpak en de noodzakelijke stappen die ondernomen moeten worden. Daarnaast moet duidelijk worden gemaakt dat deze mensen de tijd tot hun beschikking krijgen voor hun rol in het AI team. Daarnaast moeten ze een mandaat krijgen vanuit het management of directie.
 
 - Conclusies en strategische Aanbevelingen kennis en mindset medewerkers: geef een duidelijke tot the point samenvatting van de belangrijkste bevindingen op basis van de antwoorden op de gestelde vragen en geef strategische aanbevelingen voor een succesvolle AI-transformatie (hierbij rekening houdend dat het ontbreken van de juiste mindset cruciaal is voor het slagen van de transformatie)
 
 - Actieplan en volgende stappen: Maak op basis van al de informatie een gedetailleerd actieplan voor de implementatie van de aanbevelingen en suggesties voor de volgende stappen en toekomstige evaluaties. Zet daaronder in een overzicht met de subkopjes Acties en stappen.
+
+</p>
 
 </div>
 
@@ -171,27 +183,34 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
-</div>					
+</div>
+
 <div>
+
 <h4>titel</h4>
 
-inhoud van de alinea
+<p>inhoud van de alinea</p>
 
 </div>
 
