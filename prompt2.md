@@ -191,25 +191,25 @@ Zorg dat je overal in het document een hierarchie toepast en titels, koppen en s
 Zorg dat je alle inhoudelijke onderdelen / paragraven van dit rapport insluit in html divs. Voorbeeld:
 
 <div>
-<h2>titel</h2>
+<h4>titel</h4>
 
 inhoud van de alinea
 
 </div>
 <div>
-<h2>titel</h2>
+<h4>titel</h4>
 
 inhoud van de alinea
 
 </div>
 <div>
-<h2>titel</h2>
+<h4>titel</h4>
 
 inhoud van de alinea
 
 </div>					
 <div>
-<h2>titel</h2>
+<h4>titel</h4>
 
 inhoud van de alinea
 
