@@ -56,7 +56,7 @@ Vraag 7: Welke KPI's wil je gaan gebruiken om AI-prestaties te meten?
 
 Antwoord 7: ${a3_7}
 
-Vraag 8: Hebben jullie een speciaal budget voor het testen van nieuwe ideeën zoals AI?
+Vraag 8: Hebben jullie een speciaal budget voor het testen van AI tools?
 
 Antwoord 8: ${a3_8}
 
