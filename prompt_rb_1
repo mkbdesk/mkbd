@@ -14,11 +14,11 @@ Aantal vestigingen: ${a1_4}
 
 Locatie hoofdkantoor: ${a1_5}
 
-Aantal medewerkers: ${a1_6}
+//Aantal medewerkers: ${a1_6}
 
-Strategische leveranciers: ${a1_7}
+//Strategische leveranciers: ${a1_7}
 
-Strategische partners: ${a1_8}
+//Strategische partners: ${a1_8}
 
 ///
 
