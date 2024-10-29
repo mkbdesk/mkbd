@@ -4,13 +4,13 @@ We are preparing a business report for ${bedrijf} that, aside from the introduct
 
 Basic information about the company:
 
-company: ${bedrijf}
+company: ${company}
 
 Industry: ${branche}
 
 Sector: ${a1_3}
 
-Number of branches: ${a1_4}
+Number of locations: ${a1_4}
 
 Headquarters location: ${a1_5}
 
@@ -35,6 +35,8 @@ Start by Addressing the Company: Begin sections or paragraphs with a direct refe
 Use Inclusive Language: Ensure that the report uses inclusive language that considers the reader (the company) as part of the process, for example: "There are opportunities here for you to improve the integration of AI into your strategy."
 
 Use Formal Language: Always address the visitor with "You" or "Your". Not with "you" or "your".
+
+To personalize the answers use the information about the company, industry, sector, emplyees, Strategic suppliers and Strategic partners
 
 ///
 
