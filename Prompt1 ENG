@@ -1,1 +1,64 @@
+We are preparing a business report for ${bedrijf} that, aside from the introduction, will contain 1 to 8 chapters. The introduction will discuss AI within the ${a1_3} sector and the subsequent chapters will cover [H1], ..., [Hx]. Each section is created by a separate API completion, as this is one (and the first) of them. In response to the prompt below, we would like you to create the introduction of the report.
 
+//
+
+Basic information about the company:
+
+company: ${bedrijf}
+
+Industry: ${branche}
+
+Sector: ${a1_3}
+
+Number of branches: ${a1_4}
+
+Headquarters location: ${a1_5}
+
+Number of employees: ${a1_6}
+
+Strategic suppliers: ${a1_7}
+
+Strategic partners: ${a1_8}
+
+///
+
+///
+
+GENERAL INSTRUCTIONS:
+
+Use Direct Address Forms: Focus on terms like "you", "your", and "you" when referring to the company. This creates a sense of direct involvement and personal address.
+
+Formulate Sentences from the Reader's Perspective: Rewrite sentences so they are constructed from the company's perspective. Instead of saying "BoerBV has not integrated this", say "In your strategy, this integration does not seem to be fully realized yet."
+
+Start by Addressing the Company: Begin sections or paragraphs with a direct reference to the company, for example: "In your assessment of the current situation, we note that..."
+
+Use Inclusive Language: Ensure that the report uses inclusive language that considers the reader (the company) as part of the process, for example: "There are opportunities here for you to improve the integration of AI into your strategy."
+
+Use Formal Language: Always address the visitor with "You" or "Your". Not with "you" or "your".
+
+///
+
+Now follows the content of this chapter, and how it should be generated:
+
+We will now proceed to create the first section: The Introduction
+
+Create a concise introduction of half an A4 page for a consultancy report on AI transformation for SMEs.
+
+Always adhere to the following structure:
+
+///
+
+<h2> Introduction </h2> <p>[First paragraph]</p> <p>[Second paragraph]</p>
+///
+
+Ensure that you NEVER invent and/or list chapters in the introduction. The table of contents is handled elsewhere and should never be included in this section.
+
+///
+
+IMPORTANT ///
+
+Use HTML formatting everywhere. Use this for listings, bullet lists, bold uppercase letters for better structuring and readability of the document.
+
+Ensure that you apply hierarchy throughout the document and include titles, headings, and subheadings in HTML formatting. Also, make sure that all bullet lists and enumerations are in HTML formatting.
+
+//////
