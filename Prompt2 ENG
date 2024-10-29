@@ -1,1 +1,174 @@
+We are creating a business report for ${company_name} that, besides the introduction, will contain 1 to 8 chapters. The introduction will discuss AI within the ${sector} sector, and the following chapters will cover [H1], ..., [Hx]. Each part is generated through a separate API call to ChatGPT, like this example. In response to the prompt below, we ask you to create Chapter 1 of the report: the Strategy Analysis.
+
+The primary goal of this chapter is to analyze the current strategy of ${company_name}, the need for change, and integrating AI into their business strategy and future vision, with a view to enhancing competitive advantage and achieving long-term objectives.
+
+///
+
+Basic information about the company:
+
+Company Name: ${company_name}
+
+Industry: ${industry}
+
+Sector: ${sector}
+
+Number of Locations: ${locations}
+
+Headquarters Location: ${headquarters_location}
+
+Number of Employees: ${employees}
+
+Strategic Suppliers: ${strategic_suppliers}
+
+Strategic Partners: ${strategic_partners}
+
+///
+
+In creating this chapter (strategy analysis), take into account the responses to the seven questions below. These questions were answered by ${company_name}.
+
+/
+
+Question 1: Why does your organization want to change and implement AI?
+
+Answer 1: ${answer_q1}
+
+Question 2: Why is it necessary to change and implement AI?
+
+Answer 2: ${answer_q2}
+
+Question 3: Why is it necessary to change and implement AI?
+
+Answer 3: ${answer_q3}
+
+Question 4: How does the company see itself developing? What is your long-term vision?
+
+Answer 4: ${answer_q4}
+
+Question 5: How do you think the use of AI aligns with your company’s long-term strategy and vision?
+
+Answer 5: ${answer_q5}
+
+Question 6: In what ways do you expect AI to change the organization?
+
+Answer 6: ${answer_q6}
+
+Question 7: Are you already using AI? For example, an AI chatbot, ChatGPT, or through your CRM?
+
+Answer 7: ${answer_q7}
+
+Question 8: How many product-market combinations does your company have, and do you see opportunities for AI optimization in them?
+
+Answer 8: ${answer_q8}
+
+Question 9: What specific problems or challenges within the organization do you hope to solve with AI?
+
+Answer 9: ${answer_q9}
+
+///
+
+///
+
+GENERAL INSTRUCTIONS: /
+Use Direct Forms of Address: Focus on terms like "you", "your", and "yours" when referring to the company. This creates a sense of direct involvement and personal engagement. /
+Phrase Sentences from the Reader's Perspective: Rewrite sentences so they are framed from the company’s perspective. Instead of saying, "Boer Inc. has not integrated this," say, "In your strategy, this integration does not yet seem fully realized." /
+Start by Addressing the Company: Begin sections or paragraphs with a direct reference to the company, for example: "In your assessment of the current situation, we note that..." /
+Use Inclusive Language: Ensure the report uses inclusive language that considers the reader (the company) as part of the process, for example: "There are opportunities here for you to improve AI integration in your strategy." /
+Use formal language. Always address the reader with "You" or "Your" rather than "you." /
+NEVER use camelcase capital letters in titles. Example: Never use "Closing Remarks." End with Direct Advice: Finish paragraphs or sections with a direct recommendation or conclusion, for example: "We advise you to..." /
+Begin the chapter with an HTML heading level 2 (<h2>), without using chapter numbering. /
+Ensure all substantive sections/paragraphs of this report are enclosed in divs.
+
+///
+
+Now follows the content of this chapter, and how it should be generated:
+
+The strategy analysis is, therefore, the second chapter of the business report we are preparing for ${company_name}. Generate this strategy analysis operating in the ${industry} with ${employees} employees and ${locations} locations.
+
+The strategy analysis will have four sub-parts, as described below. For each sub-part, attention points are provided.
+
+Begin with a heading level 2 (DO NOT INCLUDE CHAPTER NUMBERING) and a brief introduction of about 10 sentences. Provide the context of this chapter and explain the importance of AI in today’s business world. Also, state the purpose of this chapter.
+
+///
+
+The chapter, therefore, has four parts:
+
+The Need for Change
+
+Business Objectives and Vision
+
+AI and the Business Strategy
+
+Conclusion and Recommendations
+
+/
+
+Ensure that all sections/paragraphs of this report are enclosed in divs, including the title.
+
+Begin each section with a heading level 4, followed by the content of that section. Include the corresponding attention points when drafting, as described below:
+
+///
+
+<div> <h4>The Need for Change</h4> <p>
+${company_name}’s responses to questions 1, 2, and 3.
+
+What is well-addressed in their responses, and what seems to be overlooked.
+
+Internal and external drivers.
+
+Market developments and technological advancements in their sector.
+
+Strategic timing and competitive advantage.
+
+</p> </div> <div> <h4>Business Objectives and Vision</h4> <p>
+${company_name}’s responses to questions 4, 5, and 6.
+
+What are the core ambitions.
+
+Future perspective regarding AI (response to question 6).
+
+Shortcomings in ${company_name}'s short-term vision.
+
+Shortcomings in ${company_name}'s long-term vision.
+
+</p> </div> <div> <h4>AI and the Business Strategy</h4> <p>
+${company_name}'s responses to questions 7 and 8.
+
+Current AI situation in the sector where ${company_name} operates.
+
+Where the sector is heading.
+
+Is the company’s vision on point?
+
+</p> </div> <div> <h4>Conclusion and Recommendations</h4> <p>
+Summarize the main findings.
+
+Provide strategic recommendations for AI transformation across different time frames.
+
+</p> </div>
+///
+
+In all four sections of this chapter, analyze where the company stands in the AI landscape, but also provide specific advice on areas where they may be lagging.
+
+///
+
+/// IMPORTANT ///
+
+Use HTML formatting throughout. Utilize this for lists, bullet points, BOLDED HEADINGS for better document structure and readability. Ensure that a hierarchy is applied throughout the document, and that titles, headings, and subheadings are formatted in HTML. Ensure all bullet points and lists are also formatted in HTML.
+
+///
+
+/// IMPORTANT ///
+
+Ensure that all substantive sections/paragraphs of this report are enclosed in HTML divs. Example:
+
+<div> <h4>title</h4> <p>paragraph content</p> </div> <div> <h4>title</h4> <p>paragraph content</p> </div> <div> <h4>title</h4> <p>paragraph content</p> </div> <div> <h4>title</h4> <p>paragraph content</p> </div>
+etc.
+
+///
+
+
+
+
+
+
 
